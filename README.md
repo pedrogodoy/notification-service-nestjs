@@ -32,6 +32,12 @@
 $ npm install
 ```
 
+## Prisma ORM config
+
+```bash
+$ npx prisma generate
+```
+
 ## Running the app
 
 ```bash
