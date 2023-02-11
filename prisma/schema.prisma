@@ -20,3 +20,10 @@ model Notification {
 
   @@index([recipientId])
 }
+
+model Product {
+  id String @id
+  name String
+  price String
+  sku String
+}
